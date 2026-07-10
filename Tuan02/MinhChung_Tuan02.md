@@ -1,9 +1,8 @@
-# BÁO CÁO MINH CHỨNG TIẾN ĐỘ - TUÂN 02
+
 
 ## 1. Thông tin sinh viên & Đề tài
 - [cite_start]**Họ và tên:** Phạm Ngọc Anh 
 - [cite_start]**Mã sinh viên:** 231A010382 
-- [cite_start]**Mã đề tài:** 24 
 - [cite_start]**Tên đề tài:** Chống replay attack trong giao tiếp IoT 
 - [cite_start]**Học phần:** INT4410 - Bảo mật trong IoT [cite: 1]
 
@@ -38,7 +37,7 @@ Hệ thống được triển khai giả lập hoàn toàn trong môi trường 
 
 ---
 
-## 5. Kế hoạch triển khai chi tiết Tuần 03
+## 5. Kế hoạch triển khai chi tiết
 - **Nhiệm vụ 1:** Hoàn tất cấu hình mạng cho các máy ảo trên VMware, đảm bảo các máy ping thấy nhau ổn định.
 - **Nhiệm vụ 2:** Viết hoàn chỉnh script Python tạo luồng giao tiếp IoT cơ bản và tiến hành sniff dữ liệu bằng Wireshark.
 - **Nhiệm vụ 3:** Thực hiện kịch bản Replay Attack thành công, thu thập file log và chụp lại ảnh minh chứng ban đầu.
