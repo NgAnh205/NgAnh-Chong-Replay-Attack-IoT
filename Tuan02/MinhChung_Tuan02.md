@@ -2,7 +2,8 @@
 
 ## 1. Thông tin sinh viên & Đề tài
 - [cite_start]**Họ và tên:** Phạm Ngọc Anh 
-- [cite_start]**Mã sinh viên:** 231A010382 
+- [cite_start]**Mã sinh viên:** 231A010382
+- [cite_start]**Mã đề tài:** 24
 - [cite_start]**Tên đề tài:** Chống replay attack trong giao tiếp IoT 
 - [cite_start]**Học phần:** INT4410 - Bảo mật trong IoT [cite: 1]
 
