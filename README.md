@@ -11,3 +11,4 @@
 ## Nhật ký cập nhật
 - Tuần 01: Hoàn thiện đề cương, xác định Đề tài 24 – hướng D.
 - Tuần 02: Hoàn thành Chương 1, viết nháp 50-70% Chương 2.
+- Tuần 03: Hoàn chỉnh Chương 2-3, khởi tạo Gateway và cấu hình Mosquitto.
