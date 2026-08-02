@@ -10,3 +10,4 @@
 * `slides/`  : Slide bảo vệ.
 ## Nhật ký cập nhật
 - Tuần 01: Hoàn thiện đề cương, xác định Đề tài 24 – hướng D.
+- Tuần 02: Hoàn thành Chương 1, viết nháp 50-70% Chương 2.
