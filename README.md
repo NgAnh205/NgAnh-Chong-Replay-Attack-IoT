@@ -13,3 +13,4 @@
 - Tuần 02: Hoàn thành Chương 1, viết nháp 50-70% Chương 2.
 - Tuần 03: Hoàn chỉnh Chương 2-3, khởi tạo Gateway và cấu hình Mosquitto.
 - Tuần 04: Triển khai 4 kịch bản KB-01 đến KB-04, thu log và ảnh minh chứng.
+- Tuần 05: Hoàn thiện Chương 5-6, Phụ lục tiến độ, mục lục và danh mục nguồn tham khảo.
