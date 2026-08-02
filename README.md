@@ -8,3 +8,5 @@
 * `results/` : Bằng chứng kiểm thử (Log/Ảnh chụp).
 * `report/`  : Báo cáo tiểu luận.
 * `slides/`  : Slide bảo vệ.
+## Nhật ký cập nhật
+- Tuần 01: Hoàn thiện đề cương, xác định Đề tài 24 – hướng D.
